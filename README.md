@@ -22,5 +22,7 @@ Ce projet a été réalisé dans le cadre d'un projet personnel pour démontrer 
 ### Conclusion de l'Analyse
 Le **Random Forest** est le modèle le plus performant pour la sécurité de la banque : il ne laisse passer que **7 fraudes sur 473**. Bien qu'il génère plus de faux positifs, le gain financier lié à la capture de 22 fraudes supplémentaires par rapport à la Régression Logistique justifie son utilisation en production.
 
+## Démo en ligne
+Application accessible: https://detection-fraude-bancaire-ycchtcrgduqb6shn85ezzg.streamlit.app/
 ---
 *Projet réalisé en Python avec Scikit-Learn, Pandas et Seaborn.*
